@@ -38,11 +38,11 @@ button {
     width: 30%;
     height:20%;
     text-align: center;
-    border-radius: 2em;
+    border-radius: 1em;
     border-block-end-style: solid;
     border-color: #000;
     padding-left: 10px;
-    padding-top: 40px;
+    padding-top: 30px;
     margin: 50px;
     margin-top: 25%;
     flex-basis:100px;
@@ -55,7 +55,7 @@ button {
     height:30%;
     text-align: center;
     border-block-end-style: solid;
-    border-color: #000;
+    border-color: #fff;
     margin: 50px;
     font-style: oblique;
     margin-top: 10%;
